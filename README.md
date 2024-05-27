@@ -12,14 +12,14 @@ This repository contains the code and experiments accompanying the paper "Back t
 
 ### Baseline Sensitivity
 
-![Baseline Sensitivity](https://anonymous.4open.science/r/Back-to-the-Baseline-ECBA/figures/big_picture.png)
+![Baseline Sensitivity](https://anonymous.4open.science/r/Back-to-the-Baseline-ECBA/figures/big_picture.jpg)
 Our experiments revealed that the Deletion metric's reliability is heavily 
 influenced by the chosen baseline, as illustrated in the figure. This sensitivity 
 results in inconsistent rankings of attribution methods across different baselines, undermining the metric's dependability.
 
 ### Trade-offs in Baselines
 
-![Trade-offs in Baselines](https://anonymous.4open.science/r/Back-to-the-Baseline-ECBA/figures/baseline_paths.png)
+![Trade-offs in Baselines](https://anonymous.4open.science/r/Back-to-the-Baseline-ECBA/figures/baseline_paths.jpg)
 Our research indicates a significant trade-off between information removal and the production 
 of out-of-distribution (OOD) images when using different baselines, as shown in the 
 figure. The removal score measures how effectively a baseline removes information, while 
